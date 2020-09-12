@@ -8,7 +8,7 @@ Aplicación web hecha con [Svelte](https://svelte.dev/) para realizar una lista 
 Instalar las dependencias...
 
 ```bash
-cd todolist
+cd todolist-svelte
 npm install
 ```
 
