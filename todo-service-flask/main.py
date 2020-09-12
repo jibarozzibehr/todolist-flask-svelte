@@ -2,7 +2,6 @@ import helper
 from flask import Flask, request, Response, json, render_template
 from flask_cors import CORS
 import json
-import markdown
 
 app = Flask(__name__)
 cors = CORS(app, resources={r"*": {"origins": "*"}})
